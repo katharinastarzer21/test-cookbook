@@ -1,7 +1,11 @@
-name: cookbook-dev
+name: test-kathi-dev
 channels:
   - conda-forge
 dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - matplotlib
+  - numpy
+  - jq
+
